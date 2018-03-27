@@ -8,8 +8,8 @@
    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
     <META NAME="Title" content="FULTON TEXTILES">
     <META NAME="Author" CONTENT="[http://textilesfulton.com/]"/>
-    <META name="Description" content=""/>
-     <META NAME="Keywords" CONTENT=""/>
+    <META name="Description" content="Líder en fabricación de máquinas para corte, costura y manipulación textil"/>
+     <META NAME="Keywords" CONTENT="soldadura textil,confeccion industrial,maquinaria industrial,enrollables,textil hogar,cortinas,corte crush,publicidad,maquinas coser,maquinas corte."/>
 
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -205,31 +205,95 @@
   
   <div class="row">
     <div class="col-md-7">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3736489.7218514383!2d90.21589792292741!3d23.857125486636733!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1506502314230" width="100%" height="315" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3821.4218147902316!2d-93.17891988575732!3d16.705792126502338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ecd9f928130d57%3A0xab38da7211a4919a!2sBlvd.+Bonanza%2C+Residencial+Bonanza%2C+29050+Tuxtla+Guti%C3%A9rrez%2C+Chis.!5e0!3m2!1ses-419!2smx!4v1522171373348" width="100%" height="315" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
 
       <div class="col-md-5">
-          <h4><strong>Get in Touch</strong></h4>
+          <h4><strong>Formulario</strong></h4>
         <form>
           <div class="form-group">
-            <input type="text" class="form-control" name="" value="" placeholder="Name">
+            <input type="text" class="form-control" name="" value="" placeholder="Nombre Completo">
           </div>
           <div class="form-group">
-            <input type="email" class="form-control" name="" value="" placeholder="E-mail">
+            <input type="email" class="form-control" name="" value="" placeholder="Correo">
           </div>
           <div class="form-group">
-            <input type="tel" class="form-control" name="" value="" placeholder="Phone">
+            <input type="tel" class="form-control" name="" value="" placeholder="Teléfono">
           </div>
           <div class="form-group">
-            <textarea class="form-control" name="" rows="3" placeholder="Message"></textarea>
+            <textarea class="form-control" name="" rows="3" placeholder="Comentario"></textarea>
           </div>
           <button class="btn btn-default" type="submit" name="button">
-              <i class="fa fa-paper-plane-o" aria-hidden="true"></i> Submit
+              <i class="far fa-share-square" aria-hidden="true"></i> ENVIAR
           </button>
         </form>
       </div>
     </div>
   </div>
+  <br><br>
+  <div class="container">
+    <div class="row">
+        <h2>
+            DATOS DE LA EMPRESA</h2> <br><br>
+        <div class="col-md-6">
+            <div class="blockquote-box clearfix">
+                <div class="square pull-left">
+                   <span class="fas fa-map-marker-alt glyphicon-lg"></span>
+                </div>
+                <h4>
+                    Dirección</h4>
+                <p>
+                    Priv. Bonanza #430 Col. Residencial Bonanza, Tuxtla Gutierrez, Chiapas. C.P. 29055.
+                </p>
+            </div>
+            <div class="blockquote-box blockquote-primary clearfix">
+                <div class="square pull-left">
+                    <span class="far fa-clock glyphicon-lg"></span>
+                </div>
+                <h4>
+                    Horario</h4>
+                <p>
+                    Lunes a Viernes de 9 am a 6 pm
+                </p>
+            </div>
+            
+        </div>
+        <div class="col-md-6">
+            <div class="blockquote-box blockquote-info clearfix">
+                <div class="square pull-left">
+                    <span class="far fa-envelope glyphicon-lg"></span>
+                </div>
+                <h4>
+                    Correo</h4>
+                <p>
+                    info@textilesfulton.com
+                </p>
+            </div>
+            <div class="blockquote-box blockquote-warning clearfix">
+                <div class="square pull-left">
+                    <span class="fas fa-phone glyphicon-lg"></span>
+                </div>
+                <h4>
+                    Teléfono</h4>
+                <p>
+                    PENDIENTE
+                </p>
+            </div>
+            <!-- <div class="blockquote-box blockquote-danger clearfix">
+                <div class="square pull-left">
+                    <span class="glyphicon glyphicon-record glyphicon-lg"></span>
+                </div>
+                <h4>
+                    Danger</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a
+                    ante.
+                </p>
+            </div> -->
+        </div>
+    </div>
+</div>
 </section>
 </section>
 
