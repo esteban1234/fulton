@@ -1,0 +1,609 @@
+@media screen and (max-width: 480px){
+
+/*********************MENU************************/
+	.menu{
+		height: 100%;
+	}
+
+	nav, .logo{
+		float: none !important;
+		position: relative !important;
+	}
+
+	nav{
+		position: fixed !important;
+		z-index: 3;
+		height: 100%;
+		top: 0px;
+		left: 0px;
+		background:#C01B28;
+		overflow-x: auto;
+		display: none;
+	}
+
+	nav ul{
+		width: 100%;
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+
+	nav ul .selector{
+		border-bottom:.5px solid #fff;
+		display: block;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	.logo{
+		margin-bottom: 10px;
+		width: 150px;
+	}
+
+	.openclose{
+		
+		position: fixed;
+		right: 50px;
+		top: 20px;
+		cursor: pointer;
+		z-index: 3;
+		background: #fff;
+		padding: 10px;
+		display: block;
+	}
+
+	.openclose i{
+		font-size: 25px;
+	}
+/******************END MENU***********************/
+
+/*********************INICIO************************/
+	.banner, .fondo{
+		height: 100% !important;
+	}
+
+	.textobanner{
+		font-size: 22px;
+		padding: 0px 5px;
+	}
+
+	.boton{
+		margin-bottom: 10px;
+	}
+
+	.boton a{
+		font-size: 16px !important;
+		font-weight: bold;
+		width: 60%;
+	}
+/******************END INICIO***********************/
+	
+/*********************SECCION1************************/
+	.tit-ft{
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.texto{
+		text-align: justify;
+	}
+/******************END SECCION1***********************/
+
+/*********************SECCION2************************/
+	.tit-prd{
+		font-size: 25px;
+		text-align: center;
+		font-weight: bold;	
+	}
+
+	.subtit-prd{
+		text-align: justify;
+	}
+
+	.delete-br{
+		display: none;
+	}
+
+	.tit-all{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.subtit-all{
+		text-align: justify;
+	}
+/******************END SECCION2***********************/
+
+/*********************SECCION3************************/
+	.tit-c{
+		text-align: center;
+		font-size: 22px;
+	}
+
+	.tit-f, .tit-de{
+		text-align: center;
+	}
+
+	.tit-de{
+		font-size: 18px;
+	}
+
+	.square{
+		width: 80% !important;
+		margin: auto !important;
+		float: none !important;
+		
+	}
+
+	.blockquote-box{
+		border-right: 0px;
+	}
+
+	
+	.dhct{
+		text-align: center;
+	}
+
+	.subtit-dhct{
+		text-align: center;
+	}
+/******************END SECCION3***********************/
+
+/*********************INICIO************************/
+
+/******************END INICIO***********************/
+
+
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+	/*********************MENU************************/
+	.menu{
+		height: 100%;
+	}
+
+	nav, .logo{
+		float: none !important;
+		position: relative !important;
+	}
+
+	nav{
+		position: fixed !important;
+		z-index: 3;
+		height: 100%;
+		top: 0px;
+		left: 0px;
+		width: 80%;
+		background:#C01B28;
+		overflow-x: auto;
+		display: none;
+	}
+
+	nav ul{
+		width: 100%;
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+
+	nav ul .selector{
+		border-bottom:.5px solid #fff;
+		display: block;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	.logo{
+		margin-bottom: 10px;
+		width: 150px;
+	}
+
+	.openclose{
+		
+		position: fixed;
+		right: 50px;
+		top: 20px;
+		cursor: pointer;
+		z-index: 3;
+		background: #fff;
+		padding: 10px;
+		display: block;
+	}
+
+
+	.openclose i{
+		font-size: 25px;
+	}
+/******************END MENU***********************/
+
+/*********************INICIO************************/
+	.banner, .fondo{
+		height: 100% !important;
+	}
+
+	.textobanner{
+		font-size: 22px;
+		padding: 0px 5px;
+	}
+
+	.boton{
+		margin-bottom: 10px;
+	}
+
+	.boton a{
+		font-size: 16px !important;
+		font-weight: bold;
+		width: 60%;
+	}
+/******************END INICIO***********************/
+	
+/*********************SECCION1************************/
+	.tit-ft{
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.texto{
+		text-align: justify;
+	}
+/******************END SECCION1***********************/
+
+/*********************SECCION2************************/
+	.tit-prd{
+		font-size: 25px;
+		text-align: center;
+		font-weight: bold;	
+	}
+
+	.subtit-prd{
+		text-align: justify;
+	}
+
+	.delete-br{
+		display: none;
+	}
+
+	.tit-all{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.subtit-all{
+		text-align: justify;
+	}
+/******************END SECCION2***********************/
+
+/*********************SECCION3************************/
+	.tit-c{
+		text-align: center;
+		font-size: 22px;
+	}
+
+	.tit-f, .tit-de{
+		text-align: center;
+	}
+
+	.tit-de{
+		font-size: 18px;
+	}
+
+	.square{
+		width: 80% !important;
+		margin: auto !important;
+		float: none !important;
+		
+	}
+
+	.blockquote-box{
+		border-right: 0px;
+	}
+
+	
+	.dhct{
+		text-align: center;
+	}
+
+	.subtit-dhct{
+		text-align: center;
+	}
+/******************END SECCION3***********************/
+
+/*********************INICIO************************/
+
+/******************END INICIO***********************/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+		/*********************MENU************************/
+	.menu{
+		height: 100%;
+	}
+
+	nav, .logo{
+		float: none !important;
+		position: relative !important;
+	}
+
+	nav{
+		position: fixed !important;
+		z-index: 3;
+		height: 100%;
+		top: 0px;
+		left: 0px;
+		width: 80%;
+		background:#C01B28;
+		overflow-x: auto;
+		display: none;
+	}
+
+	nav ul{
+		width: 100%;
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+
+	nav ul .selector{
+		border-bottom:.5px solid #fff;
+		display: block;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	.logo{
+		margin-bottom: 10px;
+		width: 150px;
+	}
+
+	.openclose{
+		
+		position: fixed;
+		right: 50px;
+		top: 20px;
+		cursor: pointer;
+		z-index: 3;
+		background: #fff;
+		padding: 10px;
+		display: block;
+	}
+
+
+	.openclose i{
+		font-size: 25px;
+	}
+/******************END MENU***********************/
+
+/*********************INICIO************************/
+	.banner, .fondo{
+		height: 100% !important;
+	}
+
+	.textobanner{
+		font-size: 22px;
+		padding: 0px 5px;
+	}
+
+	.boton{
+		margin-bottom: 10px;
+	}
+
+	.boton a{
+		font-size: 16px !important;
+		font-weight: bold;
+		width: 60%;
+	}
+/******************END INICIO***********************/
+	
+/*********************SECCION1************************/
+	.tit-ft{
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.texto{
+		text-align: justify;
+	}
+/******************END SECCION1***********************/
+
+/*********************SECCION2************************/
+	.tit-prd{
+		font-size: 25px;
+		text-align: center;
+		font-weight: bold;	
+	}
+
+	.subtit-prd{
+		text-align: justify;
+	}
+
+	.delete-br{
+		display: none;
+	}
+
+	.tit-all{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.subtit-all{
+		text-align: center;
+	}
+/******************END SECCION2***********************/
+
+/*********************SECCION3************************/
+	.tit-c{
+		text-align: center;
+		font-size: 22px;
+	}
+
+	.tit-f, .tit-de{
+		text-align: center;
+	}
+
+	.tit-de{
+		font-size: 18px;
+	}
+
+	.square{
+		width: 80% !important;
+		margin: auto !important;
+		float: none !important;
+		
+	}
+
+	.blockquote-box{
+		border-right: 0px;
+	}
+
+	
+	.dhct{
+		text-align: center;
+	}
+
+	.subtit-dhct{
+		text-align: center;
+	}
+
+	.imgp1, .imgp2, .imgp3, .imgp4, .imgp5, .imgp6,
+	.imgp7, .imgp8, .imgp9, .imgp10{
+		/*border:2px solid red;*/
+		background-size: 100% 100%;
+		width: 70%;
+		margin: auto;
+	}
+/******************END SECCION3***********************/
+
+/*********************INICIO************************/
+
+/******************END INICIO***********************/
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+
+	nav{
+		width: 75% !important;
+	}
+
+	nav ul{
+		float: right;
+	}
+
+	.logo{
+		width: 18%;
+	}
+
+	/*********************INICIO************************/
+	.banner, .fondo{
+		height: 100% !important;
+	}
+
+	.textobanner{
+		font-size: 22px;
+		padding: 0px 5px;
+	}
+
+	.boton{
+		margin-bottom: 10px;
+	}
+
+	.boton a{
+		font-size: 16px !important;
+		font-weight: bold;
+		width: 60%;
+	}
+/******************END INICIO***********************/
+	
+/*********************SECCION1************************/
+	.tit-ft{
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.texto{
+		text-align: justify;
+	}
+/******************END SECCION1***********************/
+
+/*********************SECCION2************************/
+	.tit-prd{
+		font-size: 25px;
+		text-align: center;
+		font-weight: bold;	
+	}
+
+	.subtit-prd{
+		text-align: justify;
+	}
+
+	.delete-br{
+		display: none;
+	}
+
+	.tit-all{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.subtit-all{
+		text-align: center;
+	}
+/******************END SECCION2***********************/
+
+/*********************SECCION3************************/
+	.tit-c{
+		text-align: center;
+		font-size: 22px;
+	}
+
+	.tit-f, .tit-de{
+		text-align: center;
+	}
+
+	.tit-de{
+		font-size: 18px;
+	}
+
+	.square{
+		width: 80% !important;
+		margin: auto !important;
+		float: none !important;
+		
+	}
+
+	.blockquote-box{
+		border-right: 0px;
+	}
+
+	
+	.dhct{
+		text-align: center;
+	}
+
+	.subtit-dhct{
+		text-align: center;
+	}
+
+	.imgp1, .imgp2, .imgp3, .imgp4, .imgp5, .imgp6,
+	.imgp7, .imgp8, .imgp9, .imgp10{
+		/*border:2px solid red;*/
+		background-size: 100% 100%;
+		width: 70%;
+		margin: auto;
+	}
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+	nav{
+		width: 75% !important;
+	}
+
+	nav ul{
+		width: 75%;
+		float: right;
+	}
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }
